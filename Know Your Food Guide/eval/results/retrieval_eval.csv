@@ -1,0 +1,7 @@
+question,difficulty,metric,score,retrieved_top_5,expected_sources
+How can I spot high-quality honey at the supermarket?,easy,recall@5,1.0,"honey.md, honey.md, honey.md, olive_oil.md, balsamic_vinegar.md",honey.md
+What should I check on olive oil labels before buying?,easy,recall@5,1.0,"olive_oil.md, olive_oil.md, olive_oil.md, table_olives.md, table_olives.md",olive_oil.md
+How do I verify Parmigiano Reggiano is authentic?,easy,recall@5,1.0,"parmigiano.md, parmigiano.md, parmigiano.md, balsamic_vinegar.md, balsamic_vinegar.md",parmigiano.md
+What does the egg shell code tell me when shopping?,easy,recall@5,1.0,"eggs.md, eggs.md, eggs.md, parmigiano.md, parmigiano.md",eggs.md
+What should I check when buying balsamic vinegar in store?,easy,recall@5,1.0,"balsamic_vinegar.md, balsamic_vinegar.md, balsamic_vinegar.md, balsamic_vinegar.md",balsamic_vinegar.md
+How do I choose better table olives from jars or tins?,easy,recall@5,1.0,"table_olives.md, table_olives.md, olive_oil.md, tinned_tomatoes.md",table_olives.md

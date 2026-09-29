@@ -1,0 +1,17 @@
+name = "know-your-food-guide"
+version = "0.1.0"
+description = "Streamlit RAG chatbot for food buying guidance."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "streamlit>=1.37.0",
+  "langchain",
+  "langchain-community",
+  "langchain-openai",
+  "langchain-text-splitters",
+  "langgraph",
+  "python-dotenv",
+  "pydantic>=2",
+  "openai>=1.40.0",
+  "python-docx",
+]
